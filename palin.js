@@ -18,3 +18,8 @@ return max;
   }
 
 console.log(largePal());
+
+// Grabbing the largest palindrome made from two 3-digit numbers.
+// Using a palinCheck function to first convert the integers to a string,
+// then split the string, reverse, and join it to see if the numbers match
+// up. Rest is pretty self explanatory 
