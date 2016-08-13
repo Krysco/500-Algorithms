@@ -17,7 +17,7 @@ return max;
     return i === i.split("").reverse().join("");
   }
 
-console.log(largePal());
+largePal();
 
 // Grabbing the largest palindrome made from two 3-digit numbers.
 // Using a palinCheck function to first convert the integers to a string,
