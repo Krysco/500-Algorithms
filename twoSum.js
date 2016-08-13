@@ -13,3 +13,5 @@ function twoSum (arr, target){
 }
 
 twoSum([2, 7, 11, 15], 9);
+
+// Determining which two numbers in an array equal the given number.
